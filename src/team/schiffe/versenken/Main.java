@@ -17,6 +17,7 @@ public class Main extends Application {
 			primaryStage.setTitle("Schiffeversenken");
 			primaryStage.show();//kommentar
 		} catch(Exception e) {	//bessere kommentar
+								//kjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll
 			e.printStackTrace();
 		}
 	}
