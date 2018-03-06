@@ -16,11 +16,11 @@ public class Main extends Application {
 			primaryStage.setScene(scene);
 			primaryStage.setTitle("Schiffeversenken");
 			primaryStage.show();
-		} catch(Exception e) {							
+		} catch(Exception e) {
 			e.printStackTrace();
 		}
 	}
-	
+
 	public static void main(String[] args) {
 		launch(args);
 	}
