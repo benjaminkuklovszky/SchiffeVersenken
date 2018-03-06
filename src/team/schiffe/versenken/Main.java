@@ -15,7 +15,7 @@ public class Main extends Application {
 			scene.getStylesheets().add(getClass().getResource("application.css").toExternalForm());
 			primaryStage.setScene(scene);
 
-			primaryStage.setTitle("1BessereCotowotolotusSchiffeversenken");
+			primaryStage.setTitle("Schiffeversenken");
 
 
 			primaryStage.show();
