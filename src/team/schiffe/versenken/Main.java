@@ -16,7 +16,7 @@ public class Main extends Application {
 			primaryStage.setScene(scene);
 			primaryStage.setTitle("Schiffeversenken");
 			primaryStage.show();//kommentar
-		} catch(Exception e) {
+		} catch(Exception e) {	//bessere kommentar
 			e.printStackTrace();
 		}
 	}
