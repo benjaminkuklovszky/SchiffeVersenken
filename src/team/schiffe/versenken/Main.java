@@ -11,11 +11,11 @@ public class Main extends Application {
 	public void start(Stage primaryStage) {
 		try {
 			BorderPane root = new BorderPane();
-			Scene scene = new Scene(root,400,400);
+			Scene scene = new Scene(root,1400,700);
 			scene.getStylesheets().add(getClass().getResource("application.css").toExternalForm());
 			primaryStage.setScene(scene);
 
-			primaryStage.setTitle("1BessereCotowotolotusSchiffeversenken_beschte");
+			primaryStage.setTitle("1BessereCotowotolotusSchiffeversenken");
 
 
 			primaryStage.show();
